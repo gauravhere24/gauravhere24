@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gauravbarnwal16" target="blank"><img src="https://img.shields.io/twitter/follow/gauravbarnwal16?logo=twitter&style=for-the-badge" alt="gauravbarnwal16" /></a> </p>
 
-<p>https://www.reddit.com/r/gifs/comments/5dnak2/only_for_ironman_lovers_3/</p>
+<a href="https://www.reddit.com/r/gifs/comments/5dnak2/only_for_ironman_lovers_3/">
 
 - 🔭 I’m currently working on **on strengthening my DSA n development**
 
