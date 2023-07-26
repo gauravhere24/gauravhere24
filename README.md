@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gauravbarnwal16" target="blank"><img src="https://img.shields.io/twitter/follow/gauravbarnwal16?logo=twitter&style=for-the-badge" alt="gauravbarnwal16" /></a> </p>
 
-https://github.com/gauravhere24/gif
-
+<img src="https://github.com/gauravhere24/gif">
 - 🔭 I’m currently working on **on strengthening my DSA n development**
 
 - 🌱 I’m currently learning **Swift, MongoDB and all**
