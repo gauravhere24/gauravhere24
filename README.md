@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/gauravbarnwal16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravbarnwal16" height="30" width="40" /></a>
 <a href="https://fb.com/gaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaurav" height="30" width="40" /></a>
-<a href="https://instagram.com/gaurav_bicarbonate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_bicarbonate" height="30" width="40" /></a>
+<a href="https://instagram.com/gaurav.bin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_bicarbonate" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gaurav_2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav_2024" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gaurav2024cse1109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gaurav2024cse1109" height="30" width="40" /></a>
 </p>
